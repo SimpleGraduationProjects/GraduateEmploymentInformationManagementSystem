@@ -7,9 +7,10 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
-    <img src="https://img.shields.io/badge/springBoot-5.x-lightgrey.svg"/>
+    <img src="https://img.shields.io/badge/spring-5.x-lightgrey.svg"/>
+    <img src="https://img.shields.io/badge/springMVC-5.x-lightgrey.svg"/>
+    <img src="https://img.shields.io/badge/mybatis-5.x-yellow.svg"/>
     <img src="https://img.shields.io/badge/vue-3.x-blue.svg"/>
-    <img src="https://img.shields.io/badge/mysql-5.x-yellow.svg"/>
 </p>
 
 ## 简介
